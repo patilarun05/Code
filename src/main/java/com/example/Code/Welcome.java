@@ -8,6 +8,6 @@ public class Welcome {
 
     @GetMapping("/welcome")
     public String getWelcomeMessage() {
-        return "❤❤❤❤❤ Welcome Indu to Daddy's world ❤❤❤❤❤";
+        return "❤❤❤❤❤❤ Welcome Indu to Daddy's world ❤❤❤❤❤❤";
     }
 }
